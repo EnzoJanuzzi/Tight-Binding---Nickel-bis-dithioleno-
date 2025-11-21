@@ -61,13 +61,15 @@ Introduction of Pd atoms breaks the rotational/inversion symmetry of the basis.
     ```bash
     git clone [https://github.com/yourusername/Ni-MOF-Tight-Binding.git](https://github.com/yourusername/Ni-MOF-Tight-Binding.git)
     ```
+    * Change *yourusername* with yor actual github username
+    
 2.  Install requirements:
     ```bash
     pip install pythtb matplotlib
     ```
 3.  Run the Jupyter Notebook:
     ```bash
-    jupyter notebook "Projeto Mat Cond.ipynb"
+    jupyter notebook "Projeto Matéria Cond.ipynb"
     ```
 
 ## 📚 References
